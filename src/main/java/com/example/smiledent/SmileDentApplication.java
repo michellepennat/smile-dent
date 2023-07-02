@@ -18,4 +18,5 @@ public class SmileDentApplication {
     public String holaMundo() {
         return "Hola Mundo";
     }
+
 }
